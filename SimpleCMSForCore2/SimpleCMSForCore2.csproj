@@ -790,7 +790,7 @@
 
   <ItemGroup>
     <PackageReference Include="CoreCompat.System.Drawing.v2" Version="5.2.0-preview1-r131" />
-    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.All" Version="2.0.9" />
     <PackageReference Include="Microsoft.AspNetCore.Authentication.Cookies" Version="2.0.0" />
     <PackageReference Include="Microsoft.AspNetCore.Session" Version="2.0.0" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.DynamicLinq" Version="1.0.4.6" />
